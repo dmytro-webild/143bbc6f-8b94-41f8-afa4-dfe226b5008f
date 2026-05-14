@@ -208,6 +208,8 @@ export default function LandingPage() {
       tag="Contact Us"
       imageSrc="http://img.b2bpic.net/free-photo/close-up-person-holding-tomatoes-with-dark-background_23-2148296926.jpg"
       mediaAnimation="slide-up"
+      background={{ variant: "plain" }}
+      useInvertedBackground={false}
     />
   </div>
 
