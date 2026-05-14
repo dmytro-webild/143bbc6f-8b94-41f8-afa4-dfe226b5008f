@@ -65,7 +65,7 @@ export default function LandingPage() {
           name: "Marco V.",          handle: "@marco_v",          testimonial: "Simply the best fine dining in the city, period.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-proposing-his-lover_23-2148060599.jpg?_wi=1"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/table-setting_74190-3618.jpg",          alt: "Diner 1"},
@@ -215,7 +215,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg?_wi=2"
       columns={[
         {
           title: "Navigation",          items: [
