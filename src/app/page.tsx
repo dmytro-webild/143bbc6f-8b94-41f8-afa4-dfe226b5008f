@@ -62,35 +62,35 @@ export default function LandingPage() {
           handle: "@jl_dubois",
           testimonial: "A truly transcendent dining experience that redefined my perception of French fusion.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-disposable-coffee-cup_107420-12311.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-disposable-coffee-cup_107420-12311.jpg?_wi=1",
         },
         {
           name: "Elena Martinez",
           handle: "@elena_m",
           testimonial: "Exceptional ingredients, flawless service, and an ambiance that captures the essence of luxury.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg?_wi=1",
         },
         {
           name: "Hiroshi Tanaka",
           handle: "@htanaka",
           testimonial: "The precision of the kitchen team is unparalleled. Every bite tells a story.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg?_wi=1",
         },
         {
           name: "Sarah Jenkins",
           handle: "@sarah_j",
           testimonial: "Les Foodies provided the most memorable anniversary dinner. Perfectly curated.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-attractive-smiling-woman-retro-vintage-american-50s-cafe-sitting-table-drinking-milk-shake-cocktail-hipster-stylish_285396-10712.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-attractive-smiling-woman-retro-vintage-american-50s-cafe-sitting-table-drinking-milk-shake-cocktail-hipster-stylish_285396-10712.jpg?_wi=1",
         },
         {
           name: "Marco V.",
           handle: "@marco_v",
           testimonial: "Simply the best fine dining in the city, period.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-proposing-his-lover_23-2148060599.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-proposing-his-lover_23-2148060599.jpg?_wi=1",
         },
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg"
@@ -268,7 +268,7 @@ export default function LandingPage() {
           quote: "The best dining experience I've had in years.",
           name: "Alex R.",
           role: "Foodie",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-disposable-coffee-cup_107420-12311.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-disposable-coffee-cup_107420-12311.jpg?_wi=2",
         },
         {
           id: "2",
@@ -276,7 +276,7 @@ export default function LandingPage() {
           quote: "Truly unique combinations and flavors.",
           name: "Beth W.",
           role: "Critic",
-          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg?_wi=2",
         },
         {
           id: "3",
@@ -284,7 +284,7 @@ export default function LandingPage() {
           quote: "A must-visit for any true food enthusiast.",
           name: "Charlie D.",
           role: "Local",
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg?_wi=2",
         },
         {
           id: "4",
@@ -292,7 +292,7 @@ export default function LandingPage() {
           quote: "Impeccable service from start to finish.",
           name: "Diana P.",
           role: "Guest",
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-attractive-smiling-woman-retro-vintage-american-50s-cafe-sitting-table-drinking-milk-shake-cocktail-hipster-stylish_285396-10712.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-attractive-smiling-woman-retro-vintage-american-50s-cafe-sitting-table-drinking-milk-shake-cocktail-hipster-stylish_285396-10712.jpg?_wi=2",
         },
         {
           id: "5",
@@ -300,7 +300,7 @@ export default function LandingPage() {
           quote: "Flavors that linger long after the meal.",
           name: "Edward M.",
           role: "Guest",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-proposing-his-lover_23-2148060599.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-proposing-his-lover_23-2148060599.jpg?_wi=2",
         },
       ]}
       title="Guest Voices"
