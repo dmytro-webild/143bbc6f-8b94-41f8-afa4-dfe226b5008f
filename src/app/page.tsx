@@ -2,9 +2,9 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
-import ContactSplitForm from '@/components/sections/contact/ContactSplitForm';
-import FaqDouble from '@/components/sections/faq/FaqDouble';
-import FooterBase from '@/components/sections/footer/FooterBase';
+import ContactSplit from '@/components/sections/contact/ContactSplit';
+import FaqBase from '@/components/sections/faq/FaqBase';
+import FooterMedia from '@/components/sections/footer/FooterMedia';
 import HeroOverlayTestimonial from '@/components/sections/hero/HeroOverlayTestimonial';
 import MetricCardEleven from '@/components/sections/metrics/MetricCardEleven';
 import NavbarStyleFullscreen from '@/components/navbar/NavbarStyleFullscreen/NavbarStyleFullscreen';
@@ -184,7 +184,7 @@ export default function LandingPage() {
   </div>
 
   <div id="faq" data-section="faq">
-      <FaqDouble
+      <FaqBase
       textboxLayout="split"
       useInvertedBackground={false}
       faqs={[
@@ -202,24 +202,18 @@ export default function LandingPage() {
   </div>
 
   <div id="contact" data-section="contact">
-      <ContactSplitForm
-      useInvertedBackground={true}
+      <ContactSplit
       title="Book Your Experience"
       description="Secure your reservation or place a special order with us today."
-      inputs={[
-        { name: "name", type: "text", placeholder: "Full Name", required: true },
-        { name: "email", type: "email", placeholder: "Email Address", required: true },
-        { name: "date", type: "date", placeholder: "Date" }
-      ]}
-      textarea={{ name: "message", placeholder: "Dietary requirements or special requests", rows: 4 }}
-      buttonText="Reserve Table / Place Order"
+      tag="Contact Us"
       imageSrc="http://img.b2bpic.net/free-photo/close-up-person-holding-tomatoes-with-dark-background_23-2148296926.jpg"
       mediaAnimation="slide-up"
     />
   </div>
 
   <div id="footer" data-section="footer">
-      <FooterBase
+      <FooterMedia
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-people-holding-drinks_23-2150124821.jpg"
       columns={[
         {
           title: "Navigation",          items: [
